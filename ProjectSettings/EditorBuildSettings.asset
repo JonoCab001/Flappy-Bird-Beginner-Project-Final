@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: ac3fb83b2b6a5074c9949fe0e42c8e3c
+  - enabled: 1
+    path: Assets/Scenes/FlappyBirdGame.unity
+    guid: d949a3e56031ce045834d57019b4c089
+  - enabled: 1
+    path: Assets/Scenes/SettingsScreen.unity
+    guid: 5d328f279a8e2d2479e07ebbeb98e6ac
+  - enabled: 0
+    path: Assets/FreeButtonSet/Scenes/SampleScene.unity
+    guid: 6d6ffd585253053469f49c7d737db7fd
+  m_configObjects: {}
